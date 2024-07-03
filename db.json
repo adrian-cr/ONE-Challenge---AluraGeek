@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id":"1",
+      "title":"Blue Gameboy",
+      "price":"$13.53",
+      "image":"img/blue.jpg"
+    },
+    {
+      "id":"2",
+      "title":"Gold Gameboy",
+      "price":"$15.09",
+      "image":"img/gold.jpg"
+    },
+    {
+      "id":"3",
+      "title":"Orange Gameboy",
+      "price":"$20.40",
+      "image":"img/orange.jpg"
+    },
+    {
+      "id":"4",
+      "title":"Pink Gameboy",
+      "price":"$16.88",
+      "image":"img/pink.jpg"
+    },
+    {
+      "id":"5",
+      "title":"Red Gameboy",
+      "price":"$13.51",
+      "image":"img/red.jpg"
+    },
+    {
+      "id":"6",
+      "title":"White Gameboy",
+      "price":"$14.70",
+      "image":"img/white.jpg"
+    }
+  ]
+}
